@@ -1,4 +1,14 @@
-# Adriano R Krevicz
+h1 align="center">
+  Hello World 👋
+</h1>
+
+<div align="center">
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
+
+# Yuri Veloso Meireles
 Currently I am Learning even more about Data Analysis and Programming Languages 🖥️🤖📊
 
 I'm a MEng in Industrial Engineering and BE in Mechanical Engineering with experience in technical drawing, design and conception of mechanical components, in addition to knowing about projects validation and simulation ⚙️🏭
@@ -9,9 +19,9 @@ I'm always looking for new challenges related with areas of technology, innovati
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianorkrevicz/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:adrianorkrevicz@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkrevicz)
+[![Instagram]()]()
 
 ## Programming
 <div align="left">

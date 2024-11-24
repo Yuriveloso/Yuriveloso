@@ -9,13 +9,12 @@
 
 
 # Yuri Veloso Meireles
-Currently I am Learning even more about Data Analysis and Programming Languages 🖥️🤖📊
+Atualmente estou frenquentando o Instuto Federal de educação ciência e tecnologia do Maranhão "IFMA" e estou cursando o curso de informática, eu moro em Âçailandia que fica no estado do Maranhão, eu sou bastante esfoçado, dedicado, justo e criativo, mas eu tenho algumas dificuldades como TDH, anciedade e um grau leve de autismo.
 
-I'm a MEng in Industrial Engineering and BE in Mechanical Engineering with experience in technical drawing, design and conception of mechanical components, in addition to knowing about projects validation and simulation ⚙️🏭
+No momento eu estou desenvolvendo um jogo sobre quimica para o meu TCC.
+Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu não lembro muito do material que eu estou estudando.
 
-My deep touch with programming came through my Master Thesys, about numerical simulation and experimental evaluation of the parameters involved in steel stamping, which was an exciting experience using the digital image correlation methodology for experimental tests, for a next characterization of material properties and to perform numerical simulations on the stamping process. At this projects I used Matlab, Python and Data Analysis 🔬🔎📷
-
-I'm always looking for new challenges related with areas of technology, innovation, data analysis and  simulation, where I want to learn and grow up with the industry. I am proactive person, who likes team projects and ready for challenges through technical, theoretical and practical learning 🎯
+Minhas habilidades inclui; ser um jogador exelentes de jogos digitais, um otimo artista de anime, habilidades como aluno do curso de informatica como saber fazer um sistema de pythom, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, ou saber as funcionalidades dos componentes de um computador.
 
 ## Fale comigo
 

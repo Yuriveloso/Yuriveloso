@@ -24,7 +24,7 @@ Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu 
 <h3>Artistas;</h3>
   Um otimo artista, desenho apenas anime e se quiser conhecer as minhas obras clique no link do meu instagram.
 <h3>Habilidades como aluno do curso de informatica;</h3> 
-  Tenho conhecimento de como fazer um sistema de pythom, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, ou saber as funcionalidades dos componentes de um computador.
+  Tenho conhecimento de como fazer um sistema de pythom ou com java, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, saber as funcionalidades dos componentes de um computador.
 
 ## Fale comigo
 

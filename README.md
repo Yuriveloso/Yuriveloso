@@ -38,7 +38,7 @@ Minhas habilidades inclui; ser um jogador exelentes de jogos digitais, um otimo 
 ![Static Badge](https://img.shields.io/badge/GODOT-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkrevicz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arkrevicz](https://github.com/Yuriveloso))
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuriveloso&repo=Novo_HTML_4&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/ARKREVICZ/dio-lab-open-source](https://github.com/Yuriveloso/Novo_HTML_4))

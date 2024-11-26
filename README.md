@@ -14,7 +14,7 @@ eu moro em Âçailandia que fica no estado do Maranhãoa, tualmente estou frenqu
 No momento eu estou desenvolvendo um jogo sobre quimica para o meu TCC.
 Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu não lembro muito do material que eu estou estudando.
 
-## Minhas habilidades inclui:
+<h2 "Minhas habilidades inclui:" >
 # Habilidade em jogos;
 ser um jogador exelentes de jogos digitais 
 # Artistas;

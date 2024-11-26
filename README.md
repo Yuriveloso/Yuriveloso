@@ -15,7 +15,7 @@ No momento eu estou desenvolvendo um jogo sobre quimica para o meu TCC.
 Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu não lembro muito do material que eu estou estudando.
 
 <h2>
-  Minhas habilidades inclui:
+  Minhas habilidades:
 </h2>
 <h3>
   Habilidade em jogos;

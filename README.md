@@ -14,11 +14,17 @@ eu moro em Âçailandia que fica no estado do Maranhãoa, tualmente estou frenqu
 No momento eu estou desenvolvendo um jogo sobre quimica para o meu TCC.
 Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu não lembro muito do material que eu estou estudando.
 
-<h2 "Minhas habilidades inclui:" >
-# Habilidade em jogos;
-ser um jogador exelentes de jogos digitais 
-# Artistas;
-um otimo artista de anime, habilidades como aluno do curso de informatica como saber fazer um sistema de pythom, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, ou saber as funcionalidades dos componentes de um computador.
+<h2>
+  Minhas habilidades inclui:
+</h2>
+<h3>
+  Habilidade em jogos;
+</h3> 
+  ser um jogador exelentes de jogos digitais, jogos como; lutas, estrategia e exploração. 
+<h3>Artistas;</h3>
+  Um otimo artista, desenho apenas anime e se quiser conhecer as minhas obras clique no link do meu instagram.
+<h3>Habilidades como aluno do curso de informatica;</h3> 
+  Tenho conhecimento de como fazer um sistema de pythom, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, ou saber as funcionalidades dos componentes de um computador.
 
 ## Fale comigo
 

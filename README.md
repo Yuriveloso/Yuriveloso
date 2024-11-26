@@ -9,12 +9,16 @@
 
 
 # Yuri Veloso Meireles
-Atualmente estou frenquentando o Instuto Federal de educação ciência e tecnologia do Maranhão "IFMA" e estou cursando o curso de informática, eu moro em Âçailandia que fica no estado do Maranhão, eu sou bastante esfoçado, dedicado, justo e criativo, mas eu tenho algumas dificuldades como TDH, anciedade e um grau leve de autismo.
+eu moro em Âçailandia que fica no estado do Maranhãoa, tualmente estou frenquentando o Instuto Federal de educação ciência e tecnologia do Maranhão "IFMA" e estou cursando o curso de informática, eu sou bastante esfoçado, dedicado, justo e criativo, mas eu tenho algumas dificuldades como TDH, anciedade e um grau leve de autismo.
 
 No momento eu estou desenvolvendo um jogo sobre quimica para o meu TCC.
 Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu não lembro muito do material que eu estou estudando.
 
-Minhas habilidades inclui; ser um jogador exelentes de jogos digitais, um otimo artista de anime, habilidades como aluno do curso de informatica como saber fazer um sistema de pythom, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, ou saber as funcionalidades dos componentes de um computador.
+## Minhas habilidades inclui:
+# Habilidade em jogos;
+ser um jogador exelentes de jogos digitais 
+# Artistas;
+um otimo artista de anime, habilidades como aluno do curso de informatica como saber fazer um sistema de pythom, desenvolver algum jogo usando ferramentas por exemplo: o Godot ou o Schrantch, ou saber as funcionalidades dos componentes de um computador.
 
 ## Fale comigo
 

@@ -9,7 +9,7 @@
 
 
 # Yuri Veloso Meireles
-eu moro em Âçailandia que fica no estado do Maranhãoa, tualmente estou frenquentando o Instuto Federal de educação ciência e tecnologia do Maranhão "IFMA" e estou cursando o curso de informática, eu sou bastante esfoçado, dedicado, justo e criativo, mas eu tenho algumas dificuldades como TDH, anciedade e um grau leve de autismo.
+Eu moro em Âçailandia que fica no estado do Maranhãoa, ja estudei em varias escolas mas atualmente estou frenquentando o Instuto Federal de educação ciência e tecnologia do Maranhão "IFMA" e estou cursando o curso de informática, eu sou bastante esfoçado, dedicado, justo e criativo, mas eu tenho algumas dificuldades como Transtorno de Decifit de Atenção e Hiperatividade (TDAH), anciedade e um grau leve de autismo.
 
 No momento eu estou desenvolvendo um jogo sobre quimica para o meu TCC.
 Mesmo frequentando o IFMA e raramente eu falto alguma aula, preciso adimitir eu não lembro muito do material que eu estou estudando.
